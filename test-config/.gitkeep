@@ -1,0 +1,1 @@
+# boot.test.mjs writes its own fresh test-config lock at setup; this dir must exist in a fresh clone.

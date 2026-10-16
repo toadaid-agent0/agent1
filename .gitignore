@@ -1,0 +1,7 @@
+node_modules/
+*.bak
+.env
+stores/
+agent1/stores/
+config/model.json
+*.log
